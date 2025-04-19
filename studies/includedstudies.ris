@@ -1,0 +1,368 @@
+TY  - JOUR
+TI  - Pathway to design a multiparameter application for environmental monitoring to contribute to citizen well-being
+AU  - Kouadio, J.S.
+AU  - Grandvaux, E.
+AU  - Waksberg, A.
+T2  - Nature-Based Solutions
+AB  - Digital enablers are defined as usage of digital tools along with complementary methods and content, devised for addressing particular purposes, in support of engaging citizens in co-creation processes related to Nature Based Solutions (NBS). Their main goal is to offer advantages and opportunities to boost processes of NBS co-creation, co-monitoring and co-development involving citizens and other stakeholders. This article presents and discuss challenges, method perspectives related to the design of a multi-thematic digital enabler: a smartphone application dedicate to well-being. This application has been designed considering a comparative study of five digital enablers, a survey (about smartphone use in relation with environmental monitoring by citizen on felt temperature and also on air, water and soil qualities) and a participative activity lead during Nantes city “Fête de la science” a French national event promoting synergies and dialogue between scientists and citizens. © 2017 Elsevier Inc. All rights reserved. © 2024 The Author(s)
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.nbsj.2024.100117
+VL  - 5
+J2  - Nature-Based Solutions
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214380457&doi=10.1016%2fj.nbsj.2024.100117&partnerID=40&md5=1e4d795a0e95e18284c62981c2aedd5d
+ER  - 
+
+TY  - CONF
+TI  - EcoViz: co-designed environmental data visualizations to communicate ecosystem impacts, inform management, and envision solutions
+AU  - Kendall-Bar, J.
+AU  - Nealey, I.
+AU  - Costello, I.
+AU  - Lowrie, C.
+AU  - Nguyen, K.H.
+AU  - Ponganis, P.J.
+AU  - Beck, M.W.
+AU  - Altintas, I.
+T2  - Proceedings - 2024 IEEE VIS Workshop on Visualization for Climate Action and Sustainability, Viz4Climate + Sustainability 2024
+AB  - Climate change's global impact calls for coordinated visualization efforts to enhance collaboration and communication among key partners such as domain experts, community members, and policy makers. We present a collaborative initiative, EcoViz, where visualization practitioners and key partners co-designed environmental data visualizations to illustrate impacts on ecosystems and the benefit of informed management and nature-based solutions. Our three use cases rely on unique processing pipelines to represent time-dependent natural phenomena by combining cinematic, scientific, and information visualization methods. Scientific out-puts are displayed through narrative data-driven animations, interactive geospatial web applications, and immersive Unreal Engine applications. Each field's decision-making process is specific, driving design decisions about the best representation and medium for each use case. Data-driven cinematic videos with simple charts and minimal annotations proved most effective for engaging large, diverse audiences. This flexible medium facilitates reuse, maintains critical details, and integrates well into broader narrative videos. The need for interdisciplinary visualizations highlights the importance of funding to integrate visualization practitioners throughout the scientific process to better translate data and knowledge into informed policy and practice. © 2024 IEEE.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/Viz4Climate-Sustainability64680.2024.00007
+SP  - 17
+EP  - 27
+PB  - Institute of Electrical and Electronics Engineers Inc.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211920323&doi=10.1109%2fViz4Climate-Sustainability64680.2024.00007&partnerID=40&md5=7e25efd788fe47702d53a518d59faa3e
+ER  - 
+
+TY  - JOUR
+TI  - Building Resilient Communities: The Environmental Observatory for Mining Projects and Climate Change Indicators
+AU  - Bergamini, K.
+AU  - Ángel, P.
+AU  - Rugiero, V.
+AU  - Medina, J.I.
+AU  - Mollenhauer, K.
+T2  - Sustainability (Switzerland)
+AB  - Public environmental information can improve industry performance, reduce environmental conflicts, and foster informed citizenship. The latter is directly linked to resilience because it is a “process that enables people to learn together, support experimentation, and increase the potential for (social and technological) innovation”. Importantly, the transparency and disclosure of environmental information alone do not have the desired impact; the general public may have access to information but not understand the content. It is necessary to reframe the technical language of information to reach broader stakeholder understanding. The Environmental Observatory for Mining Projects is an applied research project that aims to provide a public information access system for diverse stakeholders. It integrates data from various public services and makes them available to a variety of stakeholders, including the general public, through a web server and application that facilitate accessibility and understanding by using the co-creation methodology for public services. As a result of the project, the authors identified 25 indicators, six of which relate to climate change, including greenhouse gas emissions, water pollution, air pollution, hazardous waste, and tailing deposit locations. These indicators are relevant for decision making through the combined knowledge of public policies, information priorities on the impacts and vulnerabilities of climate change, and more practical issues related to data availability. The authors conclude that environmental information systems must provide people with essential data, but that such information must also be understandable, manageable, comparable, and interoperable so as to promote access to crucial information for resilient communities. © 2023 by the authors.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/su15086947
+VL  - 15
+IS  - 8
+J2  - Sustainability (Switzerland)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85156095166&doi=10.3390%2fsu15086947&partnerID=40&md5=b8927bbb82019fc041e242a29a26fef1
+L1  - https://www.mdpi.com/2071-1050/15/8/6947/pdf?version=1681990680
+ER  - 
+
+TY  - CHAP
+TI  - Mapeo
+AU  - Ryan, A.
+AU  - Villalobos, J.M.L.
+AU  - Lombardo, M.R.
+T2  - Evaluating Participatory Mapping Software
+AB  - Mapeo was built with and for earth defenders to document environmental and human rights information and to collect data about their land. It aims to be simple to use and accessible, and the software is free, open source, and can be customized with local languages and settings. The Mapeo Mobile app is used to gather observations in the field, to take photographs and collect data attached to GPS points of significant places. The Mapeo Desktop app is used to organize data collected on mobile or GPS, to create new GIS data, and to visualize, edit data, create printed reports, and publish a map online. The Mapeo toolkit was developed within a strong values framework, to center the needs and priorities of local land defenders. The authors found Mapeo's strengths to be prioritization of features promoting data privacy and data sovereignty such as being offline first and not dependent on a server; the inclusive design resulting from its co-creation with Indigenous partners leading to ease of use and low-tech threshold; many features increasing accessibility and inclusivity with customizations, including the possibility of translation into any language, custom icons and offline maps. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2023. All rights reserved.
+DA  - 2023///
+PY  - 2023
+SP  - 41
+EP  - 70
+PB  - Springer International Publishing
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194727901&doi=10.1007%2f978-3-031-19594-5_3&partnerID=40&md5=cd58d480a71afd9aee4621263b9c10d2
+ER  - 
+
+TY  - JOUR
+TI  - An integrated climate and water resource climate service prototype for long term water allocation in the Upper Yellow River region of China
+AU  - Willis, T.
+AU  - Siu, Y.L.
+AU  - Taylor, A.
+AU  - Dessai, S.
+AU  - Su, B.
+AU  - Jiang, T.
+AU  - Turner, A.
+AU  - Griffiths, G.
+AU  - Rostron, J.
+T2  - Climate Services
+AB  - Water Resourcing in China has historically been a complex issue requiring the ability to deal with regular floods, droughts and diverse water needs. Climate change represents another challenge to this sector, albeit one that is not traditionally considered by water managers. In this sector in China water management is predominantly based on historic, seasonal and annual forecast data while multi-annual and (multi-)decadal data are seldom used. In this paper, we present the co-development of a climate service prototype designed to provide water managers with insights into the impacts of climate change on the Upper Yellow River region for the next century. The paper is an outcome from our project that encouraged water resource planners and water resource managers to utilise long-term climate information to understand the uncertainties and the challenges our changing climate is likely to have in the region. Using an interdisciplinary team and adopting a user-centred, co-production approach, a prototype web-based data visualisation tool was developed. The development of the prototype was based on a design specification constructed from the findings of detailed interviews that allowed it to be developed and tested under SARS-CoV-2 pandemic restrictions that prevented the typical development process to be undertaken. The developed prototype presents climate information and communicates uncertainties regarding climate change in the remainder of the century through data sets that are typically used by the water sector in China in a simple, easy to understand style. Models that estimate river levels under different extraction scenarios and results about estimated river level and flow, and flood risk are also presented. The prototype was shown to be successful, as key messages relating to the impact of climate change and the challenges for water resource management could be effectively communicated through the tool interface. Practical implications: Understanding the impacts of climate change on water resourcing is complicated and multifaceted. There is a need for better data about what water there is and how it is moving around between and within catchments. Estimates of past, present and future climate variables along with historical measurements of river flow can be used to help visualise some of the uncertainties and changes that may happen in the next 50 years. In addition, there is a need to understand changing water demands and water resource management practices. Current water resource management practices are based on historical conditions and assumptions that are less likely to hold true in a more variable and warmer climate. Communicating how future changes will impact future water resourcing is critical to water resources in a changing climate (Belcher et al. 2018). This research outlines the construction of a tool to visualise the impacts of climate change on water availability in part of China that is typically water scarce, using models developed using the Soil Water Assessment Toolkit (SWAT). A model of the Upper Yellow River (UYR) was developed to demonstrate the impact of climate change on river levels in the catchment based on climate variables. The rainfall-runoff model was based on climate predictions from the CMIP5 assessment HadGEM3-GC3.05 climate model and incorporated information about water resource allocations for different administrative regions of the catchment The general climate trend for the region is that it is expected to become significantly warmer. The total amount of precipitation is likely to be about the same, and yet it is expected that overall, the catchment will become significantly drier over time as winter shortens and summer lengthens. The outputs from the model reflect the changes in climate variables. The uncertainties were communicated via a Web based tool. Water resource managers in China helped to coproduce the tool by participating in workshops and providing feedback on prototypes. The workshops helped scientists and water resource managers to communicate about climate change impacts on water resources and water resource management. © 2023
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.cliser.2023.100445
+VL  - 33
+J2  - Climate Services
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183766582&doi=10.1016%2fj.cliser.2023.100445&partnerID=40&md5=8b82efe7a65dbb8042a5effb4892cbe0
+L1  - https://eprints.whiterose.ac.uk/206894/7/1-s2.0-S2405880723001073-main.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Toward Food Sovereignty for Coastal Communities of Eastern Québec: Co-designing A Website to Support Consumption of Edible Resources from the St. Lawrence River, Estuary, and Gulf
+AU  - Fallon, C.
+AU  - Lemire, M.
+AU  - Dumont, D.
+AU  - Parent, E.
+AU  - Figueroa, E.
+AU  - Cummings, I.
+AU  - Brousseau, J.
+AU  - Marquis, M.
+AU  - Paquet, N.
+AU  - Plante, S.
+AU  - Witteman, H.O.
+T2  - MDM Policy and Practice
+AB  - Background. Despite the abundance and proximity of edible marine resources, coastal communities along the St. Lawrence in Eastern Québec rarely consume these resources. Within a community-based food sovereignty project, Manger notre Saint-Laurent (“Sustenance from our St. Lawrence”), members of participating communities (3 non-Indigenous, 1 Indigenous) identified a need for a web-based decision tool to help make informed consumption choices. Methods. We thus aimed to co-design a prototype website that facilitates informed choices about consuming local edible marine resources based on seasonal and regional availability, food safety, nutrition, and sustainability, with community members, regional stakeholders, and experts in user experience design and web development. We conducted 48 interviews with a variety of people over 3 iterative cycles, assessing the prototype’s ease of use with a validated measure, the System Usability Scale. Results. Community members, regional stakeholders, and other experts identified problematic elements in initial versions of the website (e.g., confusing symbols). We resolved issues and added features people identified as useful. Usability scores reached “best imaginable” for both the second and the third versions and did not differ significantly between sociodemographic groups. The final prototype includes a tool to explore each species and index cards to regroup accurate evidence relevant to each species. Conclusions. Engaging co-designers with different sociodemographic characteristics brought together a variety of perspectives. Several components would not have been included without co-designers’ input; other components were greatly improved thanks to their feedback. Co-design approaches in research and intervention development are preferable to foster the inclusion of a variety of people. Once the prototype is programmed and available online, we hope to evaluate the website to determine its effects on food choices. © The Author(s) 2022.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1177/23814683221094477
+VL  - 7
+IS  - 1
+J2  - MDM Policy and Practice
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128775384&doi=10.1177%2f23814683221094477&partnerID=40&md5=41221a2d69e2b062195c6237bb3c10ea
+L1  - https://journals.sagepub.com/doi/pdf/10.1177/23814683221094477
+ER  - 
+
+TY  - JOUR
+TI  - Digital media, political affect, and a youth to come: rethinking climate change education through Deleuzian dramatisation
+AU  - Rousell, D.
+AU  - Wijesinghe, T.
+AU  - Cutter-Mackenzie-Knowles, A.
+AU  - Osborn, M.
+T2  - Educational Review
+AB  - Set within a theatrical unfolding of global youth climate movements, this paper explores the role of digital media in staging new possibilities for climate change education and activism. We engage Deleuze’s method of dramatisation to theorise how young people are using digital platforms to perform climate activism and construct new political subjectivities through affective investments. We develop these ideas by describing the process of co-developing a climate change education App with young people. This co-design process brought together elements of climate education, environmental science, speculative fiction, gaming, social media, and hacktivism as techniques for dramatising climate change through digital practices of fabulation. We argue that climate change is a complex philosophical problem that needs to be dramatised–and that young people are currently using digital media to elaborate speculative performances of this problem through the cultivation of a minor politics. © 2021 Educational Review.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1080/00131911.2021.1965959
+VL  - 75
+IS  - 1
+SP  - 33
+EP  - 53
+J2  - Educational Review
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114666016&doi=10.1080%2f00131911.2021.1965959&partnerID=40&md5=06681d441e642188feeecec826a30a9d
+ER  - 
+
+TY  - JOUR
+TI  - Participatory and Integrated Modelling under Contentious Water Use in Semiarid Basins
+AU  - Rojas, R.
+AU  - Castilla-Rho, J.
+AU  - Bennison, G.
+AU  - Bridgart, R.
+AU  - Prats, C.
+AU  - Claro, E.
+T2  - Hydrology
+AB  - Addressing modern water management challenges requires the integration of physical, environmental and socio-economic aspects, including diverse stakeholders’ values, interests and goals. Early stakeholder involvement increases the likelihood of acceptance and legitimacy of potential solutions to these challenges. Participatory modelling allows stakeholders to co-design solutions, thus facilitating knowledge co-construction/social learning. In this work, we combine integrated modelling and participatory modelling to develop and deploy a digital platform supporting decisionmaking for water management in a semiarid basin under contentious water use. The purpose of this tool is exploring “on-the-fly” alternative water management strategies and potential policy pathways with stakeholders. We first co-designed specific water management strategies/impact indicators and collected local knowledge about farmers’ behaviour regarding groundwater regulation. Second, we coupled a node–link water balance model, a groundwater model and an agent-based model in a digital platform (SimCopiapo) for scenario exploration. This was done with constant input from key stakeholders through a participatory process. Our results suggest that reductions of groundwater demand (40%) alone are not sufficient to capture stakeholders’ interests and steer the system towards sustainable water use, and thus a portfolio of management strategies including exchanges of water rights, improvements to hydraulic infrastructure and robust enforcement policies is required. The establishment of an efficient enforcement policy to monitor compliance on caps imposed on groundwater use and sanction those breaching this regulation is required to trigger the minimum momentum for policy acceptance. Finally, the participatory modelling process led to the definition of a diverse collection of strategies/impact indicators, which are reflections of the stakeholders’ interests. This indicates that not only the final product—i.e., SimCopiapo—is of value but also the process leading to its creation. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/hydrology9030049
+VL  - 9
+IS  - 3
+J2  - Hydrology
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127417200&doi=10.3390%2fhydrology9030049&partnerID=40&md5=ea94876a2cde345076f683fe46a38c03
+L1  - https://www.mdpi.com/2306-5338/9/3/49/pdf?version=1647428970
+ER  - 
+
+TY  - JOUR
+TI  - Co-Designing an Air Quality Web App with School Pupils and Staff: The SAMHE Web App
+AU  - West, S.E.
+AU  - Castro-Faccetti, C.
+AU  - Way, L.
+AU  - Chatzidiakou, L.
+AU  - Archer, R.
+AU  - Kumar, P.
+AU  - Beale, V.J.
+AU  - Vouriot, C.
+AU  - Bland, S.
+AU  - Williams, N.
+AU  - Burridge, H.
+T2  - Citizen Science: Theory and Practice
+AB  - This methods paper describes a new UK-wide citizen science project, the Schools’ Air Quality Monitoring for Health and Education (SAMHE) project, which is exploring indoor air quality (IAQ) in schools. Central to the project is a Web App, where school teachers and pupils can see air quality and environmental data from their classroom, learn about the significance of the data that their monitor collects, enter important contextual information to support data analysis by researchers, and are supported to do their own experiments related to air quality. School use of the SAMHE Web App is essential to the project’s aims to 1) improve understanding of air quality in schools; 2) empower teachers and pupils to make informed decisions about management of their classroom environment, including ventilation; and 3) support the UK’s next generation to think differently about air quality. Therefore, it is critical that the SAMHE Web App was co-designed with schools, to maximise its acceptability within schools, and to ensure that teachers and pupils engage with it. This paper describes the co-design process used within SAMHE, how co-design has helped shape the web app (including overall theme, visualisation of data, and supporting materials), and some lessons learned from the process that will be useful for future software development and citizen science projects with schools. © 2023 The Author(s).
+DA  - 2023///
+PY  - 2023
+DO  - 10.5334/cstp.620
+VL  - 8
+IS  - 1
+J2  - Citizen Science: Theory and Practice
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179802293&doi=10.5334%2fcstp.620&partnerID=40&md5=6f8101b0ff6d1f2ac05a5a2ced5f9967
+L1  - https://theoryandpractice.citizenscienceassociation.org/articles/620/files/656714678b5c8.pdf
+ER  - 
+
+TY  - CHAP
+TI  - The Chronicles of Kunene: The Lion, the Omuhimba and the Drone
+AU  - Muashekele, C.
+AU  - Winschiers-Theophilus, H.
+AU  - Rodil, K.
+AU  - Stanley, C.
+AU  - MuAshekele, H.
+T2  - IFIP Advances in Information and Communication Technology
+AB  - Many technology projects are driven by (hidden) agendas which prioritize the one or the other stakeholder or the technology itself, thereby creating tensions and compromising important perspectives. In the field of digital conservation and wildlife management, the focus has often been on safeguarding wildlife (the lion), not incorporating socio-economic factors of communities (the Omuhimba), by exploiting technologies concerned with wildlife data collection only (the drone). Concerned with reconciling heterogeneous perspectives the authors present the development and conceptualisation of an integrated wildlife monitoring system in Southern Africa. The authors postulate that a community-based co-design approach, grounded in the Ubuntu philosophy, leads to novel and innovative technology designs embracing ecocentrism. © 2022, IFIP International Federation for Information Processing.
+DA  - 2022///
+PY  - 2022
+VL  - 645
+SP  - 149
+EP  - 164
+PB  - Springer Science and Business Media Deutschland GmbH
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135404271&doi=10.1007%2f978-3-031-12825-7_9&partnerID=40&md5=92761b5157990659879ed1e00b822645
+ER  - 
+
+TY  - JOUR
+TI  - Co-production of climate services: A story map for future coastal flooding for the city of Flensburg
+AU  - Vollstedt, B.
+AU  - Koerth, J.
+AU  - Tsakiris, M.
+AU  - Nieskens, N.
+AU  - Vafeidis, A.T.
+T2  - Climate Services
+AB  - Story maps offer the possibility to visualise scientific information and climate data in an accessible format and, as web-based tools, reach a large audience. However, the use of story maps in the context of climate services has not yet been widely explored or implemented. In this study we present a story map for communicating the potential impacts of flooding due to sea-level rise for the city of Flensburg, situated at the German Baltic Sea coast. The map is developed in the form of a web-based tool and includes background information on sea-level rise and coastal flooding as well as on coastal adaptation measures; interactive maps with information on city landmarks; and maps of future flooding scenarios based on numerical modelling. To increase the usability of the climate service we have applied a co-production approach and collaborated with the general public to identify user needs in an iterative process. Our study highlights the user needs for detailed visualisation of potential flooding due to sea-level rise as well as for further information on adaptation measures. As a climate service, our story map serves as a starting point for raising awareness among the general public and for initiating action for adaptation to reduce vulnerability to coastal flooding in Flensburg. © 2021 The Authors
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.cliser.2021.100225
+VL  - 22
+J2  - Climate Services
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100050606&doi=10.1016%2fj.cliser.2021.100225&partnerID=40&md5=3f480244c7a36ddffa18551c140a10b9
+ER  - 
+
+TY  - CONF
+TI  - Enabling Participatory Flood Monitoring Through Cloud Services
+AU  - Grajales, D.P.
+AU  - Degrossi, L.C.
+AU  - Barros, D.D.R.
+AU  - Khan, M.R.
+AU  - Silva, F.L.E.
+AU  - Cunha, M.A.
+AU  - Trajber, R.
+AU  - Porto de Albuquerque, J.
+T2  - Proceedings of the International ISCRAM Conference
+AB  - Flooding events are more impactful due to climate change, while traditional top-down approaches to flood management give way to new initiatives that consider citizens and communities as active strategic actors. Researchers and practitioners have started to place communities in the centre of creation processes or invite them to co-design digital platforms. However, many citizen science projects re-use well-known technological components without reflecting about how the technology is able to effectively support citizen participation in data generation, including the provision of flexible data storage and exchange. This paper describes a novel digital platform design which adopts cloud services to integrate official and citizen-generated data about urban flooding. It summarises the results of a participatory design process of a digital platform to collect, store and exchange flood-related data, which includes components such as data lakes, Application Programming Interfaces (APIs), and web and mobile interfaces. This work in progress paper presents insights and lessons learned from using cloud services to enable citizen participation and engage communities with flood monitoring. © 2022 Information Systems for Crisis Response and Management, ISCRAM. All rights reserved.
+DA  - 2022///
+PY  - 2022
+VL  - 2022-May
+SP  - 213
+EP  - 223
+PB  - Information Systems for Crisis Response and Management, ISCRAM
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171789676&partnerID=40&md5=db6c45304eb880b72a3fc3254ec0bd3e
+ER  - 
+
+TY  - JOUR
+TI  - Co-designing a data platform to impact nature policy and management: experiences from the Dutch Caribbean
+AU  - Verweij, P.
+AU  - Cormont, A.
+AU  - Hoetjes, P.
+AU  - de Meyer, K.
+AU  - van Bussel, T.
+AU  - Roosenschoon, O.
+AU  - Henkens, R.
+AU  - Schmidt, A.
+AU  - Janssen, S.
+T2  - Environmental Science and Policy
+AB  - To secure the sustainable use of nature, governments track nature's health and develop regulations and policies. Although there is a seeming abundance in observation-recordings, decision- and policy-makers are constrained by the lack of data and indicators, mostly as a result of barriers preventing existing data from being found, accessed, made suitable for (automated) processing and reused, but also due to missing visualisations targeted at answering questions asked by policy makers. This paper explores the process and principles for developing a biodiversity web-platform that informs policy and management on the state and trends of nature, based on experiences with the Dutch Caribbean Biodiversity Database (DCBD). The DCBD supports the assessment of the state of nature and guarantees long-term data availability in an environment that experiences a high turnover in project funds and personnel. Three principles made DCBD's uptake and growth possible: The platform is funded, promoted and used by national and regional policy makers, it simplifies tasks of local management and rapporteurs, and it is continuously being adapted to changing needs and insights. Stronger dissemination of DCBD's narratives in social arenas (e.g. newspapers, social media) may make Caribbean nature and biodiversity more politically and societally relevant. © 2019 The Authors
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.envsci.2019.06.003
+VL  - 100
+SP  - 13
+EP  - 20
+J2  - Environmental Science and Policy
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067246090&doi=10.1016%2fj.envsci.2019.06.003&partnerID=40&md5=f50a907e50eccf47bc2ac6db86bbe7ba
+ER  - 
+
+TY  - JOUR
+TI  - Promoting environmental justice through integrated mapping approaches: The map of water conflicts in Andalusia (Spain)
+AU  - Pedregal, B.
+AU  - Laconi, C.
+AU  - del Moral, L.
+T2  - ISPRS International Journal of Geo-Information
+AB  - Addressing environmental governance conflicts requires the adoption of a complexity approach to carry out an adaptive process of collective learning, exploration, and experimentation. In this article, we hypothesize that by integrating community-based participatory mapping processes with internet-based collaborative digital mapping technologies, it is possible to create tools and spaces for knowledge co-production and collective learning. We also argue that providing a collaborative web platform enables these projects to become a repository of activist knowledge and practices that are often poorly stored and barely shared across communities and organizations. The collaborative Webmap of Water Conflicts in Andalusia, Spain, is used to show the benefits and potential of mapping processes of this type. The article sets out the steps and methods used to develop this experience: (i) background check; (ii) team discussion and draft proposal; (iii) in-depth interviews, and (iv) integrated participative and collaborative mapping approach. The main challenge that had to be addressed during this process was to co-create a tool able to combine the two perspectives that construct the identity of integrated mapping: a data-information-knowledge co-production process that is useful for the social agents-the environmental activists-while also sufficiently categorizable and precise to enable the competent administrations to steer their water management. © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/ijgi9020130
+VL  - 9
+IS  - 2
+J2  - ISPRS International Journal of Geo-Information
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081206736&doi=10.3390%2fijgi9020130&partnerID=40&md5=322a9b77b2220be99685bb089c03f85f
+L1  - https://www.mdpi.com/2220-9964/9/2/130/pdf?version=1583053418
+ER  - 
+
+TY  - JOUR
+TI  - Coproducing weather forecast information with and for smallholder farmers in Ghana: Evaluation and design principles
+AU  - Gbangou, T.
+AU  - Sarku, R.
+AU  - Van Slobbe, E.
+AU  - Ludwig, F.
+AU  - Kranjac-Berisavljevic, G.
+AU  - Paparrizos, S.
+T2  - Atmosphere
+AB  - Many West African farmers are struggling to cope with changing weather and climatic conditions. This situation limits farmers' ability to make optimal decisions for food and income security. Developing more useful and accessible weather and climate information services (WCIS) can help small-scale farmers improve their adaptive capacity. The literature suggests that such WCIS can be achieved if forecast information is produced jointly by farmers and scientists. To test this hypothesis and derive design requirements for effective WCIS, we evaluated the outcomes of an experimental coproduction of weather forecasts in Ada, Ghana. The experiment involved a user-driven design and testing of information and communications technology (ICT)-based digital (smartphones and apps) and rainfall monitoring tools by 22 farmers. They collected data and received weather forecasts during the 2018/2019 study period. The results showed a positive evaluation of the intervention, expressed by the level of engagement, the increase in usability of the tools and understanding of forecast uncertainty, outreach capacity with other farmers, and improved daily farming decisions. The success of the intervention was attributed to the iterative design process, as well as the training, monitoring, and technical support provided. We conclude that the application of modern technology in a coproduction process with targeted training and monitoring can improve smallholder farmers' access to and use of weather and climate forecast information. © 2020 by the authors.
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/atmos11090902
+VL  - 11
+IS  - 9
+J2  - Atmosphere
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092384781&doi=10.3390%2fatmos11090902&partnerID=40&md5=9364f3e1c9257dd3f08428dede4bfbd2
+L1  - https://www.mdpi.com/2073-4433/11/9/902/pdf?version=1599029490
+ER  - 
+
+TY  - CONF
+TI  - Holistic model for designing a climate service application on the KaiOS platform
+AU  - Myllynpää, V.
+AU  - Haakana, J.
+AU  - Virtanen, J.
+AU  - Sutinen, E.
+T2  - Conference on Human Factors in Computing Systems - Proceedings
+AB  - Interest towards building and operating climate services is constantly growing globally, especially regarding utilization of mobile technologies in those services in the Global South, in order to reach rural farmers effectively. However, multiple issues are currently limiting the design and development of these services for reaching their full impact. Based on a recent field study, we present the criteria for a mobile climate service app for small-scale farmers in Namibia. It will be based on the KaiOS "smart feature phone" platform, and combines holistically climate, weather and agricultural information in a form that guides the farmer through the agricultural cycle. The app is currently in its early development phase, with a set of pre-selected features being built. Further field work with the local farmers will define the final set of features and the eventual user interface (UI) design of the app. © 2020 Owner/Author.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3334480.3383084
+PB  - Association for Computing Machinery
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090214696&doi=10.1145%2f3334480.3383084&partnerID=40&md5=52a9a11aa3a5645b939fb2fb9b838c3c
+ER  - 
+
+TY  - JOUR
+TI  - Co-development of a risk assessment tool for use in First Nations water supply systems: A key step to water safety plan implementation
+AU  - Lane, K
+AU  - Fuller, M
+AU  - Dyment, T
+AU  - Gagnon, G
+T2  - International Journal of Hygiene and Environmental Health
+AB  - Despite several years of targeted interventions, First Nations drinking water systems in Canada remain under-resourced and require substantial improvements in both infrastructure and management to provide communities with safe drinking water. The purpose of this study was to co-develop a risk assessment process integral to the water safety planning methodology to determine if proactive risk assessment provides a beneficial management tool for First Nations water systems. We co-developed a risk assessment web-application with First Nations stakeholders to identify hazards and assess risk in six Atlantic region First Nations communities. Using this application, we were able to successfully identify high-risk hazards in each community, both risks specific to individual systems, and risks common at a regional level. Through semi-structured interviews we identified the following benefits of a risk assessment web application: increased communication, data ownership and centralized data management. However, challenges remain, including current fragmented governance realities, and liability concerns associated with adopting a new risk management strategy. Successful adoption of proactive risk management strategies in First Nations communities will depend on strong co-development of risk assessment tools, transparent communication between stakeholders and clearly defined data ownership and management practices.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.ijheh.2021.113916
+VL  - 240
+J2  - International Journal of Hygiene and Environmental Health
+AN  - WOS:000820253900008
+ER  - 
+
+TY  - JOUR
+TI  - Participatory development of storymaps to visualize the spatiotemporal dynamics and impacts of extreme flood events for disaster preparedness
+AU  - Munz, L
+AU  - Kauzlaric, M
+AU  - Mosimann, M
+AU  - Fehlmann, A
+AU  - Martius, O
+AU  - Zischg, AP
+T2  - International Journal of Disaster Risk Reduction
+AB  - Floods are one of the costliest natural hazards in Switzerland and worldwide. Therefore, society is confronted with questions about protecting people and assets from flood risks. Key instruments are protective measures, land use regulations, spatial planning, and the interventions by civil protection units if flood magnitudes exceed the protection standards. Both prevention and preparedness require risk awareness from professionals, politicians, and the public. Risk awareness is generally high after an event and low after a period without major events. However, the rarity of extreme flood events limits learning from flood events. The training of intervention forces who should manage flood events with magnitudes beyond hitherto observed flood events requires a comprehensive description and visualization of the flood processes and their impacts. To address this, together with stakeholders and civil protection and intervention planning experts, we co developed a new way to visualize the spatiotemporal dynamics of extreme flood events and thereby communicate their impacts using dynamical flood storymaps. We selected physically plausible precipitation scenarios from reforecasts to develop storylines of extreme river flood events and their socioeconomic impacts in Switzerland. The co-development process revealed which information is relevant to potential users and how it must be presented. It is shown that storylines of extreme events presented as storymaps are a valuable tool to communicate scientific results in a way that allows practitioners to gain relevant information for their work. Therefore, we built an interactive online tool (www.flooddynamics.ch), enabling the user to analyze the spatiotemporal unfolding of flood events in Switzerland from the start of precipitation to the recession of the flood. The visualization includes maps of inundated areas at hourly timesteps and the related impacts in terms of affected persons, buildings, roads, and infrastructure. Such a temporally explicit (dynamic) representation of extreme events in storymaps, in contrast to static hazard maps, which are commonly used today, is favorable for emergency intervention planning and training and thus for awareness creation and better disaster preparedness.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.ijdrr.2023.104039
+VL  - 98
+J2  - International Journal of Disaster Risk Reduction
+AN  - WOS:001102391500001
+L1  - https://boris.unibe.ch/188363/1/Munz_et_al._-_2023_-_Participatory_development_of_storymaps_to_visualiz.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Community-Level, Participatory Co-Design for Landslide Warning with Implications for Climate Services
+AU  - Lempert, RJ
+AU  - Busch, L
+AU  - Brown, R
+AU  - Patton, A
+AU  - Turner, S
+AU  - Schmidt, J
+AU  - Young, T
+T2  - SUSTAINABILITY
+AB  - Inclusive, participatory governance is a key enabler of effective responses to natural hazard risks exacerbated by climate change. This paper describes a community-level co-design process among academic, state, and federal scientists and the community of Sitka, Alaska to develop a novel landslide warning system for this small coastal town. The decentralized system features an online dashboard which displays current and forecast risk levels to help residents make their own risk management decisions. The system and associated risk communications are informed by new geoscience, social, and information science generated during the course of the project. This case study focuses on our project team's activities and addresses questions including: what activities did the project team conduct, what did these activities intend to accomplish, and did these activities accomplish what they intended? The paper describes the co-design process, the associated changes in system design and research activities, and formal and informal evaluations of the system and process. Overall, the co-design process appears to have generated a warning system the Sitka community finds valuable, helped to align system design with local knowledge and community values, significantly modified the scientists' research agendas, and helped navigate sensitivities such as the effect of landslide exposure maps on property values. Other communities in SE Alaska are now adopting this engagement approach. The paper concludes with broader implications for the role of community-level, participatory co-design and risk governance for climate services.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/su15054294
+VL  - 15
+IS  - 5
+J2  - SUSTAINABILITY
+AN  - WOS:000947880200001
+L1  - https://www.mdpi.com/2071-1050/15/5/4294/pdf?version=1689146444
+ER  - 
+
