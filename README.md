@@ -1,5 +1,5 @@
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research for the research titled "Clarifying Co-Concepts: A Scoping Review of Community-Centered Digital Tools for Socio-environmental Impact".
+This repository sets out the skeleton of an organizational structure used for scientific research for the research titled "Clarifying Co-Concepts: A Scoping Review of their Use in Community-Centered Digital Tools for Environmentally Focused Innovation".
 
 ## Layout
 The repository is split into four main directories, many of which have subdirectories. This structure has been designed to be easily navigable by humans and computers alike, allowing for rapid location of specific files and instructions. Within each directory is a `README.md` file which summarizes the purpose of that directory as well as some examples where necessary.
